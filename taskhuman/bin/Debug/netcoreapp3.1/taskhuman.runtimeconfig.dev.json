@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ivuqa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ivuqa\\.nuget\\packages"
+    ]
+  }
+}

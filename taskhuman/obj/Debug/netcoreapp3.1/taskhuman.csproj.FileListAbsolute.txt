@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\bin\Debug\netcoreapp3.1\taskhuman.exe
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\bin\Debug\netcoreapp3.1\taskhuman.deps.json
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\bin\Debug\netcoreapp3.1\taskhuman.runtimeconfig.json
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\bin\Debug\netcoreapp3.1\taskhuman.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\bin\Debug\netcoreapp3.1\taskhuman.dll
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\bin\Debug\netcoreapp3.1\taskhuman.pdb
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.dll
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.pdb
+C:\Users\ivuqa\source\repos\taskhuman\taskhuman\obj\Debug\netcoreapp3.1\taskhuman.genruntimeconfig.cache
