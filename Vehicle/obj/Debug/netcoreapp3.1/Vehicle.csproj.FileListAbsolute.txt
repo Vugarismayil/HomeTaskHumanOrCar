@@ -1,0 +1,5 @@
+C:\Users\ivuqa\source\repos\taskhuman\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\taskhuman\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\taskhuman\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\taskhuman\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\taskhuman\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.CoreCompileInputs.cache

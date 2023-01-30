@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\taskhuman\Car\bin\Debug\netcoreapp3.1\Car.exe
+C:\Users\ivuqa\source\repos\taskhuman\Car\bin\Debug\netcoreapp3.1\Car.deps.json
+C:\Users\ivuqa\source\repos\taskhuman\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.json
+C:\Users\ivuqa\source\repos\taskhuman\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\taskhuman\Car\bin\Debug\netcoreapp3.1\Car.dll
+C:\Users\ivuqa\source\repos\taskhuman\Car\bin\Debug\netcoreapp3.1\Car.pdb
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.dll
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.pdb
+C:\Users\ivuqa\source\repos\taskhuman\Car\obj\Debug\netcoreapp3.1\Car.genruntimeconfig.cache

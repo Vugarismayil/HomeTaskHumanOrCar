@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.ConstrainedExecution;
 
 namespace taskhuman
 {
@@ -6,6 +7,7 @@ namespace taskhuman
     {
         static void Main(string[] args)
         {
+            
             Student[] students = new Student[0];
             string choice;
             do
@@ -56,8 +58,7 @@ namespace taskhuman
                         }
                         break;
                     case "3":
-                        //do
-                        //{
+                       
                             Console.WriteLine("Telebenin adini ve soyadini daxil edin: ");
                             string fullname = Console.ReadLine();
                             Console.WriteLine("QrupNo daxil edin ");
@@ -69,45 +70,43 @@ namespace taskhuman
                             };
                             Array.Resize(ref students, students.Length + 1);
                             students[students.Length - 1] = student;
-                        //} while (CheckUpperorCorrect());
-
-
-
-                        break;
+                            break;
                     case "0":
 
-                        Console.WriteLine("Cixmaq istediyinizden Eminsinizmi? \nb\nX");
+                        Console.WriteLine("Cixmaq istediyinizden Eminsinizmi? \nBeli\nXeyr");
                         var Confrim = Console.ReadLine();
                         choice = Confrim;
                         break;
                     default:
                         Console.WriteLine("Secim Yalnisdir");
                         break;
+
+  
                 }
-            } while (choice != "b");
+            } while (choice != "Beli");
         }
-        static bool CheckUpperorCorrect(string student)
-        {
-            if (student.Length > 5)
-            {
-                return false;
-            }
-            if (string.IsNullOrEmpty(student))
-            {
-                return false;
-            }
-            if (char.IsLower(student[0]))
-            {
-                return false;
-            }
-            for (int i = 0; i < student.Length; i++)
-            {
-                if (!char.IsDigit(student[0]))
-                {
-                    return false;
-                }
-            }
-            return true;
-        }
+        //static bool CheckUpperorCorrect(string student)
+        //{
+        //    if (student.Length > 5)
+        //    {
+        //        return false;
+        //    }
+        //    if (string.IsNullOrEmpty(student))
+        //    {
+        //        return false;
+        //    }
+        //    if (char.IsLower(student[0]))
+        //    {
+        //        return false;
+        //    }
+        //    for (int i = 0; i < student.Length; i++)
+        //    {
+        //        if (!char.IsDigit(student[0]))
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    return true;
+        //}
     }
 }
